@@ -6,9 +6,16 @@ import { useEngineStore } from "@/store/engine-store";
 
 export default function ClientShell({ children }: { children: React.ReactNode }) {
   const initEngine = useEngineStore(s => s.initEngine);
+  const startEngine = useEngineStore(s => s.startEngine);
   const initialized = useEngineStore(s => s.initialized);
 
-  useEffect(() => { if (!initialized) initEngine(); }, [initEngine, initialized]);
+  useEffect(() => {
+    if (!initialized) {
+      initEngine();
+      const t = setTimeout(() => startEngine(), 100);
+      return () => clearTimeout(t);
+    }
+  }, [initEngine, startEngine, initialized]);
 
   return (
     <div className="flex min-h-screen">
