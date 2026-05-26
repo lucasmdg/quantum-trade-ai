@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/quantum-trade-ai/_next/static/chunks/0x-20hwg_k1q..js","/quantum-trade-ai/_next/static/chunks/09s-vlay6h54o.js","/quantum-trade-ai/_next/static/chunks/0p.-lf2bqux9h.js","/quantum-trade-ai/_next/static/chunks/08zj-28ghzdj8.js","/quantum-trade-ai/_next/static/chunks/0vmw_sf0c0bjb.js"],"ClientPageRoot"]
+3:I[52683,["/quantum-trade-ai/_next/static/chunks/0x-20hwg_k1q..js","/quantum-trade-ai/_next/static/chunks/09s-vlay6h54o.js","/quantum-trade-ai/_next/static/chunks/0p.-lf2bqux9h.js","/quantum-trade-ai/_next/static/chunks/08zj-28ghzdj8.js","/quantum-trade-ai/_next/static/chunks/0vmw_sf0c0bjb.js","/quantum-trade-ai/_next/static/chunks/0dnm_s0a5~kc7.js","/quantum-trade-ai/_next/static/chunks/0d_ok_fhanp1~.js","/quantum-trade-ai/_next/static/chunks/0jo.64oqdlsuw.js"],"default"]
+6:I[97367,["/quantum-trade-ai/_next/static/chunks/0x-20hwg_k1q..js","/quantum-trade-ai/_next/static/chunks/09s-vlay6h54o.js","/quantum-trade-ai/_next/static/chunks/0p.-lf2bqux9h.js","/quantum-trade-ai/_next/static/chunks/08zj-28ghzdj8.js","/quantum-trade-ai/_next/static/chunks/0vmw_sf0c0bjb.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/quantum-trade-ai/_next/static/chunks/0dnm_s0a5~kc7.js","async":true}],["$","script","script-1",{"src":"/quantum-trade-ai/_next/static/chunks/0d_ok_fhanp1~.js","async":true}],["$","script","script-2",{"src":"/quantum-trade-ai/_next/static/chunks/0jo.64oqdlsuw.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Mti3wTDH1GCG-H1-CVcfQ"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

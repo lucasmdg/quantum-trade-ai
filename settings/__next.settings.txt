@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/quantum-trade-ai/_next/static/chunks/0x-20hwg_k1q..js","/quantum-trade-ai/_next/static/chunks/09s-vlay6h54o.js","/quantum-trade-ai/_next/static/chunks/0p.-lf2bqux9h.js","/quantum-trade-ai/_next/static/chunks/08zj-28ghzdj8.js","/quantum-trade-ai/_next/static/chunks/0vmw_sf0c0bjb.js"],"default"]
+3:I[37457,["/quantum-trade-ai/_next/static/chunks/0x-20hwg_k1q..js","/quantum-trade-ai/_next/static/chunks/09s-vlay6h54o.js","/quantum-trade-ai/_next/static/chunks/0p.-lf2bqux9h.js","/quantum-trade-ai/_next/static/chunks/08zj-28ghzdj8.js","/quantum-trade-ai/_next/static/chunks/0vmw_sf0c0bjb.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Mti3wTDH1GCG-H1-CVcfQ"}
